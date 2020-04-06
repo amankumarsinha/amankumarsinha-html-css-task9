@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  background: black;
+  color:#333;
+}
+.login-container{
+  height: 100vh;
+  width: 100%;
+}
+.login-form{
+  margin: auto;
+  width: 370px;
+  padding: 15px;
+  max-width: 75%;
+  background-color:orange;
+}
+.login-form .form-control{
+  font-size: 15px;
+  min-height: 48px;
+  font-weight: 500;
+}
+.login-form a{
+  text-decoration: none;
+  color:black;
+}
+.login-form a:hover{
+  color:blue;
+}
+.forgot-link{
+  font-size: 15px;
+}
+
+.form-control:focus{
+  border-color:red;
+  box-shadow: 0 0 0 0.2rem rgba(114,61,190,.25);
+}
+.btn-custom{
+  background: red;
+  border-color:black;
+  color:#fff;
+  font-size: 18px;
+  font-weight: 80;
+  min-height: 48px;
+}
+.btn-custom:focus,
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:active:focus{
+  background: green;
+  border-color: #54229d;
+  color:green;
+}
+.Z7p_S {
+    margin: 10px 40px 18px;
+}
+.K-1uj {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+}
+.s311c {
+    -webkit-box-flex: 1;
+    flex-grow: 1; 
+    flex-shrink: 1;
+    background-color: rgba(var(--b38,219,219,219),1);
+    height: 1px;
+    position: relative;
+    top: .45em;
+}
+._0tv-g {
+
+    color: black;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+    margin: 0 20px;
+    text-transform: uppercase;
+}
+hr{
+  border: 2px solid red;
+}
+.coreSpriteFacebookIcon {
+    background-position: -320px -224px;
+    height: 16px;
+    width: 16px;
+}
+.KPnG0 {
+    color: #e9ecef;
+}
+.sqdOP
+{
+backgroung-color:blue;
+}
+.btn-custom:focus{
+  box-shadow: 0 0 0 0.2rem rgba(114,61,190,.25);
+}
